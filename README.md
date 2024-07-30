@@ -7,3 +7,7 @@ Black holes (BHs) are thought to reside at the center of every galaxy in the kno
 The files contained within were used to extract date from the MaNGA survey of SDSS DR17, create plots to visiualize my results, and to conduct statistical tests. 
 
 **In order for the code to operate as intended, it must be run in a Jupyter Notebook, within a container from SciServer running the "SciServer Essentials 2.0" image**
+
+For each Jupyter Notebook file (.ipynb), there is an accopanying Python file (.py). When uploading the files to Jupyter Notebook, .ipynb files are strongly recommended however the Python files exist for anyone seeking that option.
+
+For inquiries on this matter I am availible at mgiambona86@gmail.com.
