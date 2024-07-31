@@ -3,7 +3,7 @@ Below is a list of all individual code files in this repository, as well as the 
 **DWARF GALAXIES**
 
  	=================CODE=FILE================||==============.XLSX=FILE=============
-	                                          ||
+                                                  ||
 	Dwarf AGN Ha Velocity Dispersion.ipynb    || Dwarf_AGN_ID.xlsx
                                                   ||
 	Dwarf SF Ha Velocity Dispersion.ipynb     || Dwarf_SF_ID.xlsx
@@ -13,7 +13,7 @@ Below is a list of all individual code files in this repository, as well as the 
 **MASSIVE GALAXIES**
 
 	==================CODE=FILE=================||================.XLSX=FILE================
-	                                            ||
+                                                    ||
 	Massive AGN Ha Velocity Dispersion.ipynb    || Massive_AGN_ID.xlsx
                                                     ||
 	Massive SF Ha Velocity Dispersion.ipynb     || Massive_SF_ID.xlsx
