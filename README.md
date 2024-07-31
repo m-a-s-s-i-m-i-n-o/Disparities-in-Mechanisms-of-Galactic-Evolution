@@ -12,6 +12,6 @@ For each Jupyter Notebook file (.ipynb), there is an accopanying Python file (.p
 
 When running the 'Sample Selection' code, the dwarf and massive galaxy files will generate .xlsx (Excel) files containing the MaNGA IDs for the AGN and SF dominated feedback galaxies in each mass group. If you do not want to run these code files, you can download the .xlsx files containing each cohort's MaNGA IDs in the folder titled 'MaNGA IDs'.                                                                                         
 
-**IMPORTANT:** These .xlsx files are used in the other code fiels to determine which galaxies from the raw data are in the study's sample. The .xlsx files MUST be uploaded to the same directory as the code wishing to use them.
+**IMPORTANT:** These .xlsx files are used in the other code files to determine which galaxies from the raw data are in the study's sample. The .xlsx files MUST be uploaded to the same directory as the code wishing to use them.
 
 For inquiries, I am availible at mgiambona86@gmail.com.
